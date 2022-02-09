@@ -1,4 +1,4 @@
-## Git 101, with Exercises
+## Answers
 
 **Git** is the key tool we use to allow multiple people to work on the same code base.  **Git** takes care of merging everyone's contributions smoothly.  Hence, learning how to use Git is critical to contributing to open source.
 
